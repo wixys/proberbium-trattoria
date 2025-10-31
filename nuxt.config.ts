@@ -32,7 +32,7 @@ export default defineNuxtConfig({
   app: {
     head: {
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
                 {
           rel: 'stylesheet',
           href: 'https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Laila:wght@600&display=swap',
