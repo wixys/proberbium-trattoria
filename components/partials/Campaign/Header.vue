@@ -13,10 +13,10 @@
       </div>
 
       <!-- Video visible después de 2 segundos -->
-      <video v-show="showVideo" ref="video" autoplay muted loop playsinline>
-        <source src="/videos/horus-eventos-team-building-1280-720-1.mp4" type="video/mp4" />
+      <!-- <video v-show="showVideo" ref="video" autoplay muted loop playsinline>
+        <source src="/videos/video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
-      </video>
+      </video> -->
       <div class="mute-container">
         <div v-if="isMuted" class="pointer-hand">👇</div>
         <button
