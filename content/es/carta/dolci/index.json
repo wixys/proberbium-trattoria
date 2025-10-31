@@ -1,0 +1,334 @@
+{
+  "links": {
+    "self": "/es/carta/dolci"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "dolci",
+      "attributes": {
+        "title": "Dolci",
+        "description": "<p>Postres caseros italianos, elaborados con ingredientes frescos y el toque artesanal de la casa.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Tiramisú",
+            "slug": "tiramisu",
+            "description": "<p>El clásico postre italiano con capas de mascarpone, café y cacao.</p>",
+            "link": "/es/carta/dolci/tiramisu",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 7,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/tiramisu",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Panna cotta al cioccolato",
+            "slug": "panna-cotta-al-cioccolato",
+            "description": "<p>Delicada panna cotta de chocolate con textura cremosa y suave sabor a cacao.</p>",
+            "link": "/es/carta/dolci/panna-cotta-al-cioccolato",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 7,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/panna-cotta-al-cioccolato",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Parfait de chocolate y guindilla",
+            "slug": "parfait-de-chocolate-y-guindilla",
+            "description": "<p>Postre semifrío con un toque picante de guindilla que realza el sabor del chocolate.</p>",
+            "link": "/es/carta/dolci/parfait-de-chocolate-y-guindilla",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 7,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/parfait-de-chocolate-y-guindilla",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Budino de naranja",
+            "slug": "budino-de-naranja",
+            "description": "<p>Budino suave y cremoso con notas cítricas de naranja natural.</p>",
+            "link": "/es/carta/dolci/budino-de-naranja",
+            "icon": "",
+            "featured": false,
+            "sort": 4,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 8,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/budino-de-naranja",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Sorbete de manzana verde y prosecco",
+            "slug": "sorbete-de-manzana-verde-y-prosecco",
+            "description": "<p>Refrescante sorbete con toque de prosecco y sabor a manzana verde.</p>",
+            "link": "/es/carta/dolci/sorbete-de-manzana-verde-y-prosecco",
+            "icon": "",
+            "featured": false,
+            "sort": 5,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 8,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/sorbete-de-manzana-verde-y-prosecco",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Crepe de Nutella con helado",
+            "slug": "crepe-de-nutella-con-helado",
+            "description": "<p>Crepe relleno de Nutella acompañado de helado artesanal.</p>",
+            "link": "/es/carta/dolci/crepe-de-nutella-con-helado",
+            "icon": "",
+            "featured": false,
+            "sort": 6,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 6.5,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/crepe-de-nutella-con-helado",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Gelato affogato al caffe",
+            "slug": "gelato-affogato-al-caffe",
+            "description": "<p>Helado artesanal servido con café espresso caliente.</p>",
+            "link": "/es/carta/dolci/gelato-affogato-al-caffe",
+            "icon": "",
+            "featured": false,
+            "sort": 7,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 7.5,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/gelato-affogato-al-caffe",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Helados",
+            "slug": "helados",
+            "description": "<p>Selección de helados artesanales de diferentes sabores.</p>",
+            "link": "/es/carta/dolci/helados",
+            "icon": "",
+            "featured": false,
+            "sort": 8,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 6,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["dolce"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/dolci/helados",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          }
+        ],
+        "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/dolci"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "type": "company",
+      "id": "company",
+      "attributes": {
+        "companyName": "Proverbium Trattoria",
+        "logo": "/img/logo.png",
+        "icon": "/img/icon.png",
+        "phone": "+34 916 320 574",
+        "mobile": "",
+        "email": "info@proverbium.es",
+        "address": "Calle Mártires 19, C.P. 28660, Boadilla del Monte (Madrid)",
+        "socialNetworks": [
+          
+        ]
+      }
+    }
+  ]
+}

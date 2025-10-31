@@ -1,0 +1,290 @@
+{
+  "links": {
+    "self": "/es/carta/vino-blanco"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "vino-blanco",
+      "attributes": {
+        "title": "Vino bianco",
+        "description": "<p>Selección de vinos blancos italianos, perfectos para maridar con pescados, pastas y entrantes.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Custoza DOC Poggio Grazie (Veneto)",
+            "slug": "custoza-doc-poggio-grazie-veneto",
+            "description": "<p>Vino blanco fresco y afrutado del Veneto, ideal para acompañar entrantes y pescados.</p>",
+            "link": "/es/carta/vino-blanco/custoza-doc-poggio-grazie-veneto",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 23,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/custoza-doc-poggio-grazie-veneto",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Tardo Sauvignon (Veneto)",
+            "slug": "tardo-sauvignon-veneto",
+            "description": "<p>Vino Sauvignon del Veneto, con notas cítricas y equilibrado frescor.</p>",
+            "link": "/es/carta/vino-blanco/tardo-sauvignon-veneto",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 24,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/tardo-sauvignon-veneto",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Frascati (Lazio)",
+            "slug": "frascati-lazio",
+            "description": "<p>Vino blanco seco y ligero de la región de Lazio, perfecto para platos suaves.</p>",
+            "link": "/es/carta/vino-blanco/frascati-lazio",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 18,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/frascati-lazio",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Trebbiano d’Abruzzo (Abruzzo)",
+            "slug": "trebbiano-dabruzzo-abruzzo",
+            "description": "<p>Vino blanco fresco y floral de la región de Abruzzo.</p>",
+            "link": "/es/carta/vino-blanco/trebbiano-dabruzzo-abruzzo",
+            "icon": "",
+            "featured": false,
+            "sort": 4,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 18,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/trebbiano-dabruzzo-abruzzo",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Müller Thurgau (Trentino)",
+            "slug": "muller-thurgau-trentino",
+            "description": "<p>Vino blanco afrutado del norte de Italia, con notas florales y sabor equilibrado.</p>",
+            "link": "/es/carta/vino-blanco/muller-thurgau-trentino",
+            "icon": "",
+            "featured": false,
+            "sort": 5,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 22,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/muller-thurgau-trentino",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Falanghina (Campania)",
+            "slug": "falanghina-campania",
+            "description": "<p>Vino blanco elegante con aromas cítricos y florales, típico de Campania.</p>",
+            "link": "/es/carta/vino-blanco/falanghina-campania",
+            "icon": "",
+            "featured": false,
+            "sort": 6,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 24,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/falanghina-campania",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Fiano di Avellino (Campania)",
+            "slug": "fiano-di-avellino-campania",
+            "description": "<p>Vino blanco con cuerpo y aromas intensos, una joya de la región de Avellino.</p>",
+            "link": "/es/carta/vino-blanco/fiano-di-avellino-campania",
+            "icon": "",
+            "featured": false,
+            "sort": 7,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 24,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_bianco"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-blanco/fiano-di-avellino-campania",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          }
+        ],
+         "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/vino-blanco"
+      }
+    }
+  ]
+}

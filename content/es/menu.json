@@ -1,0 +1,73 @@
+{
+  "data": {
+    "type": "menu",
+    "id": "main-menu",
+    "attributes": {
+      "title": "Main Menu",
+      "items": [
+        {
+          "title": "Inicio",
+          "link": "/es",
+          "class": "",
+          "btn_class": "",
+          "position": "navbar"
+        },
+        {
+          "title": "Carta",
+          "link": "/es/carta",
+          "class": "",
+          "btn_class": "",
+          "position": "navbar",
+          "children": [
+            {
+              "title": "Live Experiences",
+              "link": "/es/servicios/live-experiences",
+              "children": [
+                {
+                  "title": "Congresos y Convenciones",
+                  "link": "/es/servicios/live-experiences/congresos-y-convenciones-de-empresa"
+                },
+                {
+                  "title": "Lanzamientos",
+                  "link": "/es/servicios/live-experiences/lanzamientos"
+                },
+                {
+                  "title": "Celebraciones de Empresa",
+                  "link": "/es/servicios/live-experiences/celebraciones-de-empresa"
+                },
+                {
+                  "title": "Family Day",
+                  "link": "/es/servicios/live-experiences/family-day"
+                },
+                {
+                  "title": "Eventos de Ayuntamientos",
+                  "link": "/es/servicios/live-experiences/eventos-de-ayuntamientos"
+                },
+                {
+                  "title": "Eventos de Centros Comerciales",
+                  "link": "/es/servicios/live-experiences/eventos-para-centros-comerciales"
+                }
+              ]
+            },
+            {
+              "title": "Team Building",
+              "link": "/es/servicios/team-building"
+            },
+            {
+              "title": "Management de Artistas",
+              "link": "/es/servicios/management-de-artistas"
+            },
+            {
+              "title": "Espacios Exclusivos",
+              "link": "/es/servicios/espacios-exclusivos"
+            },
+            {
+              "title": "Catering",
+              "link": "/es/servicios/catering"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "links": {
+    "self": "/es/carta/vino-rose"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "vino-rose",
+      "attributes": {
+        "title": "Vino rosé",
+        "description": "<p>Vinos rosados italianos, ligeros, frescos y perfectos para acompañar aperitivos o platos suaves.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Lambrusco (Emilia-Romagna)",
+            "slug": "lambrusco-emilia-romagna",
+            "description": "<p>Vino rosado espumoso y afrutado, típico de Emilia-Romagna.</p>",
+            "link": "/es/carta/vino-rose/lambrusco-emilia-romagna",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 16,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_rose"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-rose/lambrusco-emilia-romagna",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Chiaretto classico (Veneto)",
+            "slug": "chiaretto-classico-veneto",
+            "description": "<p>Vino rosado seco, equilibrado y con notas florales del Lago di Garda.</p>",
+            "link": "/es/carta/vino-rose/chiaretto-classico-veneto",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 20,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_rose"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-rose/chiaretto-classico-veneto",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Nero D’Avola (Sicilia)",
+            "slug": "nero-davola-sicilia",
+            "description": "<p>Rosado siciliano con cuerpo y aromas a frutas rojas frescas.</p>",
+            "link": "/es/carta/vino-rose/nero-davola-sicilia",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 20,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_rose"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-rose/nero-davola-sicilia",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          }
+        ],
+        "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/vino-rose"
+      }
+    }
+  ]
+}

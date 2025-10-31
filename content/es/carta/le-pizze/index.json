@@ -1,0 +1,334 @@
+{
+  "links": {
+    "self": "/es/carta/le-pizze"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "le-pizze",
+      "attributes": {
+        "title": "Le pizze",
+        "description": "<p>Pizzas al estilo italiano, elaboradas con masa artesanal y productos de calidad.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Pizza margherita",
+            "slug": "pizza-margherita",
+            "description": "<p>Tomate, mozzarella y albahaca.</p>",
+            "link": "/es/carta/le-pizze/pizza-margherita",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 15,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-margherita",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza quattro formaggi",
+            "slug": "pizza-quattro-formaggi",
+            "description": "<p>Tomate, mozzarella, gorgonzola, provolone y taleggio.</p>",
+            "link": "/es/carta/le-pizze/pizza-quattro-formaggi",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 20,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-quattro-formaggi",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza calzone",
+            "slug": "pizza-calzone",
+            "description": "<p>Tomate, mozzarella, ricotta, jamón y champiñón.</p>",
+            "link": "/es/carta/le-pizze/pizza-calzone",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 17.5,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-calzone",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza spagnola",
+            "slug": "pizza-spagnola",
+            "description": "<p>Tomate, mozzarella, huevo, “guanciale” y cebolla.</p>",
+            "link": "/es/carta/le-pizze/pizza-spagnola",
+            "icon": "",
+            "featured": false,
+            "sort": 4,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 18,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-spagnola",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza tonnara",
+            "slug": "pizza-tonnara",
+            "description": "<p>Tomate, mozzarella, atún, cebolla y gambas.</p>",
+            "link": "/es/carta/le-pizze/pizza-tonnara",
+            "icon": "",
+            "featured": false,
+            "sort": 5,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 18,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-tonnara",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza funghi y prosciutto",
+            "slug": "pizza-funghi-y-prosciutto",
+            "description": "<p>Tomate, mozzarella, jamón cocido y champiñón.</p>",
+            "link": "/es/carta/le-pizze/pizza-funghi-y-prosciutto",
+            "icon": "",
+            "featured": false,
+            "sort": 6,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 16.5,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-funghi-y-prosciutto",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza capricciosa",
+            "slug": "pizza-capricciosa",
+            "description": "<p>Tomate, mozzarella, jamón, champiñón y anchoas.</p>",
+            "link": "/es/carta/le-pizze/pizza-capricciosa",
+            "icon": "",
+            "featured": false,
+            "sort": 7,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 17.5,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-capricciosa",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Pizza Gourmet piccante",
+            "slug": "pizza-gourmet-piccante",
+            "description": "<p>Tomate, mozzarella, berenjena salteada, burrata fresca, crema de nduja y Parmigiano Reggiano.</p>",
+            "link": "/es/carta/le-pizze/pizza-gourmet-piccante",
+            "icon": "",
+            "featured": false,
+            "sort": 8,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 21,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["pizza"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/le-pizze/pizza-gourmet-piccante",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          }
+        ],
+        "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/le-pizze"
+      }
+    }
+  ]
+}

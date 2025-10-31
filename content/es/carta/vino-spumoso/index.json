@@ -1,0 +1,146 @@
+{
+  "links": {
+    "self": "/es/carta/vino-spumoso"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "vino-spumoso",
+      "attributes": {
+        "title": "Vino spumoso",
+        "description": "<p>Vinos espumosos italianos con elegancia y frescura, perfectos para celebraciones o para acompañar postres y aperitivos.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Sangue di Giuda (Lombardia)",
+            "slug": "sangue-di-giuda-lombardia",
+            "description": "<p>Espumoso dulce y afrutado con notas de cereza y frambuesa, típico de Lombardía.</p>",
+            "link": "/es/carta/vino-spumoso/sangue-di-giuda-lombardia",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 17.5,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_spumoso"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-spumoso/sangue-di-giuda-lombardia",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Moscato D’Asti (Piemonte)",
+            "slug": "moscato-dasti-piemonte",
+            "description": "<p>Espumoso dulce y ligero con aromas florales y frutales, clásico del Piemonte.</p>",
+            "link": "/es/carta/vino-spumoso/moscato-dasti-piemonte",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 22,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_spumoso"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-spumoso/moscato-dasti-piemonte",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Prosecco Valdobbiadene (Veneto)",
+            "slug": "prosecco-valdobbiadene-veneto",
+            "description": "<p>Espumoso seco con finas burbujas, originario de Valdobbiadene, ideal para brindar.</p>",
+            "link": "/es/carta/vino-spumoso/prosecco-valdobbiadene-veneto",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": {
+                  "label": "Precio",
+                  "amount": 28,
+                  "currency": "EUR",
+                  "display": { "symbol": "€", "position": "after" }
+                },
+                "tags": { "values": ["vino_spumoso"] }
+              }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/vino-spumoso/prosecco-valdobbiadene-veneto",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          }
+        ],
+        "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/vino-spumoso"
+      }
+    }
+  ]
+}

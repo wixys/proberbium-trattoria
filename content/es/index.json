@@ -1,0 +1,33 @@
+{
+  "links": {
+    "self": "/"
+  },
+  "data": [
+    {
+      "type": "home",
+      "id": "home",
+      "attributes": {
+        "title": "Descubre los auténticos sabores del sur de Italia",
+        "description": "",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-8 col-xxl-6",
+        "wrapper_class": "text-center my-5",
+        "title_class": "text-black fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal mb-4",
+        "call_to_action": {
+          "title": "Ver más",
+          "icon": "bi bi-plus-lg me-2",
+          "link": "#about",
+          "class": "btn btn-primary mt-2 mb-5",
+          "active": true
+        }
+      },
+      "links": {
+        "self": "/"
+      }
+    }
+  ]
+}

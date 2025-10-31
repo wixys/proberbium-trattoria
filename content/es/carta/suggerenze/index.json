@@ -1,0 +1,252 @@
+{
+  "links": {
+    "self": "/es/carta/suggerenze"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "suggerenze",
+      "attributes": {
+        "title": "Suggerenze",
+        "description": "<p>Selección especial de platos recomendados del chef.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Fettuccine puttanesca de bacalao",
+            "slug": "fettuccine-puttanesca-de-bacalao",
+            "description": "<p>Fettuccine frescos con salsa puttanesca (alcaparras, anchoa y aceitunas) y lomos de bacalao desalado.</p>",
+            "link": "/es/carta/suggerenze/fettuccine-puttanesca-de-bacalao",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+                "attributes": {
+                    "price": {
+                    "label": "Precio",
+                    "amount": 19.00,
+                    "currency": "EUR",
+                    "display": {
+                        "symbol": "€",
+                        "position": "after"
+                    }
+                    },
+                    "tags": {
+                    "values": ["sugerencia", "sin_gluten"]
+                    }
+                }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/suggerenze/fettuccine-puttanesca-de-bacalao",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Rigatoni alla norcina",
+            "slug": "rigatoni-alla-norcina",
+            "description": "<p>Pasta corta fresca con emulsión de patata, salchicha curada, boletus edulis y pecorino romano.</p>",
+            "price": "19,00 €",
+            "link": "/es/carta/suggerenze/rigatoni-alla-norcina",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+                "attributes": {
+                    "price": {
+                    "label": "Precio",
+                    "amount": 19.00,
+                    "currency": "EUR",
+                    "display": {
+                        "symbol": "€",
+                        "position": "after"
+                    }
+                    },
+                    "tags": {
+                    "values": ["sugerencia", "sin_gluten"]
+                    }
+                }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/suggerenze/rigatoni-alla-norcina",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Risotto al parmigiano y boletus edulis",
+            "slug": "risotto-al-parmigiano-y-boletus-edulis",
+            "description": "<p>Clásico risotto mantecado con Parmigiano Reggiano y boletus edulis, coronado con caviar de trufa blanca.</p>",
+            "price": "20,00 €",
+            "link": "/es/carta/suggerenze/risotto-al-parmigiano-y-boletus-edulis",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+                "attributes": {
+                    "price": {
+                    "label": "Precio",
+                    "amount": 20.00,
+                    "currency": "EUR",
+                    "display": {
+                        "symbol": "€",
+                        "position": "after"
+                    }
+                    },
+                    "tags": {
+                    "values": ["sugerencia", "sin_gluten"]
+                    }
+                }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/suggerenze/risotto-al-parmigiano-y-boletus-edulis",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Tagliolini in crema di limone",
+            "slug": "tagliolini-in-crema-di-limone",
+            "description": "<p>Spaghetti frescos salteados con puerro, champiñones, calabacín y espárragos con crema de limón.</p>",
+            "price": "17,50 €",
+            "link": "/es/carta/suggerenze/tagliolini-in-crema-di-limone",
+            "icon": "",
+            "featured": false,
+            "sort": 4,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+                "attributes": {
+                    "price": {
+                    "label": "Precio",
+                    "amount": 17.50,
+                    "currency": "EUR",
+                    "display": {
+                        "symbol": "€",
+                        "position": "after"
+                    }
+                    },
+                    "tags": {
+                    "values": ["sugerencia", "sin_gluten"]
+                    }
+                }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/suggerenze/tagliolini-in-crema-di-limone",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          },
+          {
+            "title": "Caffè pendiente",
+            "slug": "caffe-pendiente",
+            "description": "<p>(Es una DONACIÓN, no se sirve el café. Hace más de un siglo nació en Nápoles “il caffe sospeso”… El importe íntegro va para colaborar con una ONG).</p>",
+            "price": "2,50 €",
+            "link": "/es/carta/suggerenze/caffe-pendiente",
+            "icon": "",
+            "featured": false,
+            "sort": 5,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "images_col_class": "",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+                "attributes": {
+                    "price": {
+                    "label": "Precio",
+                    "amount": 2.50,
+                    "currency": "EUR",
+                    "display": {
+                        "symbol": "€",
+                        "position": "after"
+                    }
+                    },
+                    "tags": {
+                    "values": ["sugerencia", "sin_gluten"]
+                    }
+                }
+            },
+            "call_to_action": {
+              "title": "Ver más",
+              "icon": "bi bi-plus-lg me-2",
+              "link": "/es/carta/suggerenze/caffe-pendiente",
+              "class": "btn btn-primary mt-3 mb-3",
+              "active": false
+            }
+          }
+        ],
+        "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/suggerenze"
+      }
+    }
+  ]
+}

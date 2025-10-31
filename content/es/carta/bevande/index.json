@@ -1,0 +1,413 @@
+{
+  "links": {
+    "self": "/es/carta/bevande"
+  },
+  "data": [
+    {
+      "type": "articles",
+      "id": "bevande",
+      "attributes": {
+        "title": "Bevande",
+        "description": "<p>Refrescos, aguas, cervezas y copas para acompañar tu comida o disfrutar en cualquier momento.</p>",
+        "content": "",
+        "class": "",
+        "container_class": "container px-5",
+        "row_class": "row justify-content-center my-5",
+        "col_class": "col-lg-12",
+        "wrapper_class": "text-center my-2",
+        "title_class": "fw-bolder mb-3",
+        "paragraph_class": "lead fw-normal text-muted mb-2",
+        "images": [],
+        "images_portfolio": [],
+        "videos": [],
+        "articles": [
+          {
+            "title": "Agua Natural Cabreiroa 50 cl",
+            "slug": "agua-natural-cabreiroa-50-cl",
+            "description": "<p>Agua mineral natural en formato de 50 cl.</p>",
+            "link": "/es/carta/bevande/agua-natural-cabreiroa-50-cl",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 2.3, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/agua-natural-cabreiroa-50-cl", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Agua con gas San Pellegrino 50 cl",
+            "slug": "agua-con-gas-san-pellegrino-50-cl",
+            "description": "<p>Agua con gas italiana San Pellegrino (50 cl).</p>",
+            "link": "/es/carta/bevande/agua-con-gas-san-pellegrino-50-cl",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 3.0, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/agua-con-gas-san-pellegrino-50-cl", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Refresco",
+            "slug": "refresco",
+            "description": "<p>Refrescos variados.</p>",
+            "link": "/es/carta/bevande/refresco",
+            "icon": "",
+            "featured": false,
+            "sort": 3,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 2.75, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/refresco", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Zumo natural",
+            "slug": "zumo-natural",
+            "description": "<p>Zumo de frutas naturales.</p>",
+            "link": "/es/carta/bevande/zumo-natural",
+            "icon": "",
+            "featured": false,
+            "sort": 4,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 3.0, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/zumo-natural", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Zumo",
+            "slug": "zumo",
+            "description": "<p>Zumo envasado de distintos sabores.</p>",
+            "link": "/es/carta/bevande/zumo",
+            "icon": "",
+            "featured": false,
+            "sort": 5,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 2.75, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/zumo", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Alhambra barril",
+            "slug": "alhambra-barril",
+            "description": "<p>Cerveza Alhambra de barril.</p>",
+            "link": "/es/carta/bevande/alhambra-barril",
+            "icon": "",
+            "featured": false,
+            "sort": 6,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 3.8, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/alhambra-barril", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Alhambra 1925",
+            "slug": "alhambra-1925",
+            "description": "<p>Cerveza Alhambra Reserva 1925.</p>",
+            "link": "/es/carta/bevande/alhambra-1925",
+            "icon": "",
+            "featured": false,
+            "sort": 7,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 4.0, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/alhambra-1925", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Cerveza sin gluten",
+            "slug": "cerveza-sin-gluten",
+            "description": "<p>Cerveza apta para celíacos.</p>",
+            "link": "/es/carta/bevande/cerveza-sin-gluten",
+            "icon": "",
+            "featured": false,
+            "sort": 8,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 4.0, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/cerveza-sin-gluten", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Doble de cerveza",
+            "slug": "doble-de-cerveza",
+            "description": "<p>Cerveza tamaño doble.</p>",
+            "link": "/es/carta/bevande/doble-de-cerveza",
+            "icon": "",
+            "featured": false,
+            "sort": 9,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 4.2, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/doble-de-cerveza", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Copa de vino blanco/rosado",
+            "slug": "copa-de-vino-blanco-rosado",
+            "description": "<p>Copa de vino blanco o rosado.</p>",
+            "link": "/es/carta/bevande/copa-de-vino-blanco-rosado",
+            "icon": "",
+            "featured": false,
+            "sort": 10,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 4.4, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-vino-blanco-rosado", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Copa de vino tinto",
+            "slug": "copa-de-vino-tinto",
+            "description": "<p>Copa de vino tinto.</p>",
+            "link": "/es/carta/bevande/copa-de-vino-tinto",
+            "icon": "",
+            "featured": false,
+            "sort": 11,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 5.0, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-vino-tinto", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Tinto de verano",
+            "slug": "tinto-de-verano",
+            "description": "<p>Bebida refrescante a base de vino tinto.</p>",
+            "link": "/es/carta/bevande/tinto-de-verano",
+            "icon": "",
+            "featured": false,
+            "sort": 12,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 5.5, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/tinto-de-verano", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Copa de prosecco",
+            "slug": "copa-de-prosecco",
+            "description": "<p>Vino espumoso italiano por copa.</p>",
+            "link": "/es/carta/bevande/copa-de-prosecco",
+            "icon": "",
+            "featured": false,
+            "sort": 13,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 6.5, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-prosecco", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Martini",
+            "slug": "martini",
+            "description": "<p>Aperitivo clásico italiano.</p>",
+            "link": "/es/carta/bevande/martini",
+            "icon": "",
+            "featured": false,
+            "sort": 14,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 4.4, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/martini", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          },
+          {
+            "title": "Aperol Spritz",
+            "slug": "aperol-spritz",
+            "description": "<p>Cóctel italiano con Aperol, prosecco y soda.</p>",
+            "link": "/es/carta/bevande/aperol-spritz",
+            "icon": "",
+            "featured": false,
+            "sort": 15,
+            "row_class": "row gx-0 mb-1 mb-lg-0 justify-content-center",
+            "images": [],
+            "images_class": "img-fluid",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-light h-100",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "w-100 my-auto text-lg-left",
+            "article_title_class": "text-black px-4 mt-4",
+            "article_paragraph_class": "mb-0 px-4 text-dark-50",
+            "meta": {
+              "attributes": {
+                "price": { "label": "Precio", "amount": 9.0, "currency": "EUR", "display": { "symbol": "€", "position": "after" } },
+                "tags": { "values": ["bevanda"] }
+              }
+            },
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/aperol-spritz", "class": "btn btn-primary mt-3 mb-3", "active": false }
+          }
+        ],
+        "call_to_action": {
+            "title": "Carta",
+            "icon": "bi bi-book me-2",
+            "link": "/es/carta",
+            "class": "btn btn-danger",
+            "active": true
+        }
+      },
+      "links": {
+        "self": "/es/carta/bevande"
+      }
+    }
+  ]
+}

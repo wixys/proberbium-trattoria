@@ -1,0 +1,34 @@
+/* Estilo para la sección con efecto parallax en dispositivos móviles */
+@media (max-width: 767px) {
+  .parallax-section {
+    background-image: url('/img/banquete-boda-finca-monteoliva.jpg'); /* Ruta a la imagen de fondo para dispositivos móviles */
+  }
+}
+
+/* Estilo para la sección con efecto parallax en dispositivos de escritorio */
+@media (min-width: 768px) {
+  .parallax-section {
+    background-image: url('/img/banquete-boda-finca-monteoliva.jpg'); /* Ruta a la imagen de fondo para dispositivos de escritorio */
+  }
+}
+
+@supports (-webkit-background-attachment: fixed) or (background-attachment: fixed) {
+  /* Estilo común para la sección con efecto parallax (incluyendo Safari) */
+  .parallax-section {
+    background-image: url('/img/banquete-boda-finca-monteoliva.jpg'); /* Ruta a la imagen de fondo para dispositivos de escritorio */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 500px;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+}
+
+/* Estilo para el contenido dentro de la sección */
+.parallax-content {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}

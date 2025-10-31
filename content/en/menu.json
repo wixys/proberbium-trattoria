@@ -1,0 +1,42 @@
+{
+    "data": {
+      "type": "menu",
+      "id": "main-menu",
+      "attributes": {
+        "title": "Main Menu",
+        "items": [
+          {
+            "title": "Home",
+            "link": "/en"
+          },
+          {
+            "title": "Services",
+            "link": "/en/services",
+            "children": [
+              {
+                "title": "Audit",
+                "link": "/en/services/audit"
+              },
+              {
+                "title": "Support",
+                "link": "/en/services/support"
+              },
+              {
+                "title": "Maintenance",
+                "link": "/en/services/maintenance"
+              }
+            ]
+          },
+          {
+            "title": "About",
+            "link": "/en/about"
+          },
+          {
+            "title": "Contact",
+            "link": "/en/contact"
+          }
+        ]
+      }
+    }
+  }
+  

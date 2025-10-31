@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+
+# Permite acceso a /es y otros directorios
+Allow: /
+Allow: /es/
+
+# Especifica la ubicación del sitemap
+Sitemap: https://www.horuseventos.com/sitemap.xml

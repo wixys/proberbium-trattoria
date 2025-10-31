@@ -1,0 +1,21 @@
+{
+    "links": {
+        "self": "/en/about"
+    },
+    "data": [{
+        "type": "about",
+        "id": "about",
+        "attributes": {
+          "title": "About",
+          "description": "This is the description of the about page",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas, massa elementum semper maximus, ligula nisl iaculis neque, ac cursus ex dolor eu magna. Aenean id efficitur odio. Ut laoreet, est non congue lobortis, enim metus iaculis massa, a commodo nulla mauris id lorem. Pellentesque vitae aliquam odio, eget pretium urna. Nullam hendrerit mollis purus, ac iaculis ante ornare a.<br /><br />\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean egestas, massa elementum semper maximus, ligula nisl iaculis neque, ac cursus ex dolor eu magna. Aenean id efficitur odio. Ut laoreet, est non congue lobortis, enim metus iaculis massa, a commodo nulla mauris id lorem. Pellentesque vitae aliquam odio, eget pretium urna. Nullam hendrerit mollis purus, ac iaculis ante ornare a.",
+          "items": [
+            
+          ]
+        },
+        "links": {
+          "self": "/en/about"
+        }
+      }]
+  }
+  
