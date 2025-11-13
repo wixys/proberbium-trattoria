@@ -53,7 +53,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/custoza-doc-poggio-grazie-veneto",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -89,7 +89,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/tardo-sauvignon-veneto",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -125,7 +125,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/frascati-lazio",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -161,7 +161,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/trebbiano-dabruzzo-abruzzo",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -197,7 +197,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/muller-thurgau-trentino",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -233,7 +233,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/falanghina-campania",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -269,7 +269,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-blanco/fiano-di-avellino-campania",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           }

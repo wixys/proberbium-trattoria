@@ -80,8 +80,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #eb9c5b;
-  --bs-link-hover-color: #ee7715;
+  --bs-link-color: #a16468;
+  --bs-link-hover-color: #784b4e;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #faf4e0;
 }
@@ -3242,7 +3242,7 @@ fieldset:disabled .btn {
   --bs-btn-color: #212529;
   --bs-btn-border-color: #212529;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #212529;
+  --bs-btn-hover-bg: #a16468;
   --bs-btn-hover-border-color: #212529;
   --bs-btn-focus-shadow-rgb: 33, 37, 41;
   --bs-btn-active-color: #fff;
@@ -4327,11 +4327,11 @@ fieldset:disabled .btn {
 
 .navbar-dark {
   --bs-navbar-color: rgba(255, 255, 255, 0.55);
-  --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
+  --bs-navbar-hover-color: rgba(161, 100, 104);
   --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
-  --bs-navbar-active-color: #fff;
-  --bs-navbar-brand-color: #fff;
-  --bs-navbar-brand-hover-color: #fff;
+  --bs-navbar-active-color: #a16468;
+  --bs-navbar-brand-color: #a16468;
+  --bs-navbar-brand-hover-color: #a16468;
   --bs-navbar-toggler-border-color: rgba(255, 255, 255, 0.1);
   --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
@@ -11206,8 +11206,8 @@ body {
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #eb9c5b;
-  border: 1px solid #eb9c5b;
+  color: #a16468;
+  border: 1px solid #a16468;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
@@ -11242,11 +11242,11 @@ body {
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(0, 0, 0, 0.55);
+    color: rgba(161, 100, 104);
     font-weight: 500;
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(161, 100, 104, 0.75);
   }
   #mainNav .nav-link:active {
     color: #fff;

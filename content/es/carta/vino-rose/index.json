@@ -53,7 +53,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-rose/lambrusco-emilia-romagna",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -89,7 +89,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-rose/chiaretto-classico-veneto",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -125,7 +125,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-rose/nero-davola-sicilia",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           }

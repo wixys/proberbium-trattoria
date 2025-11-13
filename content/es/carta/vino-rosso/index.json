@@ -39,7 +39,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 19, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/chianti-doc-toscana", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/chianti-doc-toscana", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Nero D’Avola (Sicilia)",
@@ -59,7 +59,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 21, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/nero-davola-sicilia", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/nero-davola-sicilia", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Passo Barone (Puglia)",
@@ -79,7 +79,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 23, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/passo-barone-puglia", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/passo-barone-puglia", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Memoro (Toscana)",
@@ -99,7 +99,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 24, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/memoro-toscana", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/memoro-toscana", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Vizzo (Emilia Romagna)",
@@ -119,7 +119,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 24, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/vizzo-emilia-romagna", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/vizzo-emilia-romagna", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Aglianico del Taburno (Campania)",
@@ -139,7 +139,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 23, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/aglianico-del-taburno-campania", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/aglianico-del-taburno-campania", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Don Carlo, Riserva (Sicilia)",
@@ -159,7 +159,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 26, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/don-carlo-riserva-sicilia", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/don-carlo-riserva-sicilia", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Ripasso Valpolicella clásico (Veneto)",
@@ -179,7 +179,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 30, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/ripasso-valpolicella-clasico-veneto", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/ripasso-valpolicella-clasico-veneto", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Giunonico Riserva Primitivo di Manduria (Puglia)",
@@ -199,7 +199,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 35, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/giunonico-riserva-primitivo-di-manduria-puglia", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/giunonico-riserva-primitivo-di-manduria-puglia", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Rosso Montalcino - Col D’Orcia (Toscana)",
@@ -219,7 +219,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 35, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/rosso-montalcino-col-dorcia-toscana", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/rosso-montalcino-col-dorcia-toscana", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Cagiolo Riserva (Abruzzo)",
@@ -239,7 +239,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 42, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/cagiolo-riserva-abruzzo", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/cagiolo-riserva-abruzzo", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Edizione Cantina Farnese (Abruzzo)",
@@ -259,7 +259,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 53, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/edizione-cantina-farnese-abruzzo", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/edizione-cantina-farnese-abruzzo", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Composizione di rosso Classico DOCG (Friuli)",
@@ -279,7 +279,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 85, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/composizione-di-rosso-classico-docg-friuli", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/composizione-di-rosso-classico-docg-friuli", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Brunello di Montalcino Col D’Orcia (Toscana)",
@@ -299,7 +299,7 @@
             "article_title_class": "text-black px-4 mt-4",
             "article_paragraph_class": "mb-0 px-4 text-dark-50",
             "meta": { "attributes": { "price": { "label": "Precio", "amount": 75, "currency": "EUR", "display": { "symbol": "€", "position": "after" } }, "tags": { "values": ["vino_rosso"] } } },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/brunello-di-montalcino-col-dorcia-toscana", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/vino-rosso/brunello-di-montalcino-col-dorcia-toscana", "class": "btn btn-danger mt-3 mb-3", "active": false }
           }
         ],
         "call_to_action": {

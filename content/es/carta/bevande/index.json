@@ -44,7 +44,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/agua-natural-cabreiroa-50-cl", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/agua-natural-cabreiroa-50-cl", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Agua con gas San Pellegrino 50 cl",
@@ -69,7 +69,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/agua-con-gas-san-pellegrino-50-cl", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/agua-con-gas-san-pellegrino-50-cl", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Refresco",
@@ -94,7 +94,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/refresco", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/refresco", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Zumo natural",
@@ -119,7 +119,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/zumo-natural", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/zumo-natural", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Zumo",
@@ -144,7 +144,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/zumo", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/zumo", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Alhambra barril",
@@ -169,7 +169,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/alhambra-barril", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/alhambra-barril", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Alhambra 1925",
@@ -194,7 +194,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/alhambra-1925", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/alhambra-1925", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Cerveza sin gluten",
@@ -219,7 +219,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/cerveza-sin-gluten", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/cerveza-sin-gluten", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Doble de cerveza",
@@ -244,7 +244,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/doble-de-cerveza", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/doble-de-cerveza", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Copa de vino blanco/rosado",
@@ -269,7 +269,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-vino-blanco-rosado", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-vino-blanco-rosado", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Copa de vino tinto",
@@ -294,7 +294,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-vino-tinto", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-vino-tinto", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Tinto de verano",
@@ -319,7 +319,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/tinto-de-verano", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/tinto-de-verano", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Copa de prosecco",
@@ -344,7 +344,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-prosecco", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/copa-de-prosecco", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Martini",
@@ -369,7 +369,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/martini", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/martini", "class": "btn btn-danger mt-3 mb-3", "active": false }
           },
           {
             "title": "Aperol Spritz",
@@ -394,7 +394,7 @@
                 "tags": { "values": ["bevanda"] }
               }
             },
-            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/aperol-spritz", "class": "btn btn-primary mt-3 mb-3", "active": false }
+            "call_to_action": { "title": "Ver más", "icon": "bi bi-plus-lg me-2", "link": "/es/carta/bevande/aperol-spritz", "class": "btn btn-danger mt-3 mb-3", "active": false }
           }
         ],
         "call_to_action": {

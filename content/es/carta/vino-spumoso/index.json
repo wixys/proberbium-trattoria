@@ -53,7 +53,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-spumoso/sangue-di-giuda-lombardia",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -89,7 +89,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-spumoso/moscato-dasti-piemonte",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -125,7 +125,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/vino-spumoso/prosecco-valdobbiadene-veneto",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           }

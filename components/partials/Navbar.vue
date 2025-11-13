@@ -157,9 +157,9 @@
 
 <style>
   a.router-link-active.router-link-exact-active.nav-link {
-    color: rgb(0, 93, 166);
+    color: rgb(161, 100, 104);
     outline: none;
-    border-bottom: 0.25rem solid rgb(0, 93, 166);
+    border-bottom: 0.25rem solid rgb(161, 100, 104);
     z-index: 10000;
   }
 

@@ -54,7 +54,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/licores-italianos",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -91,7 +91,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/grappa-riserva",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -128,7 +128,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/bombay-sapphire",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -165,7 +165,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/hendricks",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -202,7 +202,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/martin-miller",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -239,7 +239,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/brockmans",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -276,7 +276,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/matusalem-15-anos",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -313,7 +313,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/legendario",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -350,7 +350,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/white-label",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -387,7 +387,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/ballantines",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -424,7 +424,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/johnnie-walker-etiqueta-negra",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -461,7 +461,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/liquori/knockando",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           }

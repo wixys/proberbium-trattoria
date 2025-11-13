@@ -54,7 +54,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/insalata-con-bacalao",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -91,7 +91,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/la-parmigiana",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -128,7 +128,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/tagliata-di-tonno",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -165,7 +165,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/burrata-pugliese",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -202,7 +202,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/vitello-tonnato",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -239,7 +239,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/provolone-dolce-di-sorrento",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -276,7 +276,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/focaccia",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           },
@@ -313,7 +313,7 @@
               "title": "Ver más",
               "icon": "bi bi-plus-lg me-2",
               "link": "/es/carta/antipasti/servicio-aove",
-              "class": "btn btn-primary mt-3 mb-3",
+              "class": "btn btn-danger mt-3 mb-3",
               "active": false
             }
           }
