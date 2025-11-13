@@ -39,7 +39,13 @@
       <UiSection :sections="sections" />
     </template>
   </div>
-  <div v-else>Loading...</div>
+  <div v-else>
+    <div class="d-flex justify-content-center">
+      <div class="spinner-border text-primary my-5" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script setup lang="ts">
