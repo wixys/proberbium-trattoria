@@ -48,7 +48,7 @@ export default defineNuxtConfig({
         },
         {
           id: 'cookie-script',
-          src: 'https://cdn.cookie-script.com/s/55beec750af48a4d61290c6532943f01.js',
+          src: '//cdn.cookie-script.com/s/4fcf71cdf569c04da2d1c208da15bc13.js',
           type: 'text/javascript',
           charset: 'UTF-8',
           defer: true
