@@ -66,6 +66,13 @@
               "link": "/es/servicios/catering"
             }
           ]
+        },
+        {
+          "title": "Localización",
+          "link": "/es#localizacion",
+          "class": "",
+          "btn_class": "",
+          "position": "navbar"
         }
       ]
     }

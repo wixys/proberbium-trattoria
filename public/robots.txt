@@ -8,4 +8,4 @@ Allow: /
 Allow: /es/
 
 # Especifica la ubicación del sitemap
-Sitemap: https://www.horuseventos.com/sitemap.xml
+Sitemap: https://www.proverbium.es/sitemap.xml

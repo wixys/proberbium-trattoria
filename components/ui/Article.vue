@@ -15,7 +15,9 @@
                   <i v-if="article.icon" :class="article.icon"></i>
                   {{ article.title }}
                 </h4>
-                <div :class="article.article_paragraph_class" v-html="article.description"></div>
+                <p :class="article.article_paragraph_class">
+                  <span v-html="article.description"></span>
+                </p>
                 <template
                   v-if="article.call_to_action && article.call_to_action.active"
                   class="text-center"
@@ -62,7 +64,9 @@
                     <i v-if="article.icon" :class="article.icon"></i>
                     {{ article.title }}
                   </h4>
-                  <div :class="article.article_paragraph_class" v-html="article.description"></div>
+                  <p :class="article.article_paragraph_class">
+                    <span v-html="article.description"></span>
+                  </p>
                   <p v-for="(metaField, key) in article.meta?.attributes" :key="key" class="text-end px-4 fw-bold mb-4">
                     <template v-if="metaField.amount">
                       {{ formatCurrency(metaField.amount, metaField.currency, metaField.display.symbol, metaField.display.position) }}
@@ -109,10 +113,9 @@
                       </template>
                       <template v-else> {{ article.title }}</template>
                     </h4>
-                    <div
-                      :class="article.article_paragraph_class"
-                      v-html="article.description"
-                    ></div>
+                    <p :class="article.article_paragraph_class">
+                      <span v-html="article.description"></span>
+                    </p>
                     <template v-if="article.call_to_action && article.call_to_action.active">
                       <UiButtonsBaseButton
                         :to="article.call_to_action.link"
@@ -128,7 +131,9 @@
                     <i v-if="article.icon" :class="article.icon"></i>
                     {{ article.title }}
                   </h4>
-                  <div :class="article.article_paragraph_class" v-html="article.description"></div>
+                  <p :class="article.article_paragraph_class">
+                    <span v-html="article.description"></span>
+                  </p>
 
                   <div v-if="article.videos" :class="article.videos_row_class">
                     <div v-for="video in article.videos">

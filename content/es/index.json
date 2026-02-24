@@ -8,13 +8,13 @@
       "id": "home",
       "attributes": {
         "title": "Descubre los auténticos sabores del sur de Italia",
-        "description": "",
+        "description": "<h3>Tradición con sabor mediterráneo</h3><p>Vive una experiencia gastronómica auténtica y rica en sabores con amigos y familiares.</p><p>Descubre nuestro variado menú, repleto de deliciosas recetas caseras.</p><p><strong>Disponemos de productos aptos para celíacos.</strong><br>Resto de intolerancias consultar con nuestro personal.</p><p class='mt-4'>¡Visítanos y sumérgete en una auténtica experiencia culinaria italiana!</p>",
         "content": "",
         "class": "",
-        "container_class": "container px-5",
-        "row_class": "row justify-content-center my-5",
+        "container_class": "container px-5 my-5",
+        "row_class": "row justify-content-center",
         "col_class": "col-lg-8 col-xxl-6",
-        "wrapper_class": "text-center my-5",
+        "wrapper_class": "text-center",
         "title_class": "text-black fw-bolder mb-3",
         "paragraph_class": "lead fw-normal mb-4",
         "call_to_action": {

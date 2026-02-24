@@ -1,7 +1,7 @@
 <template>
   <!-- Footer Start -->
-  <footer class="footer bg-dark small text-white-50">
-    <div class="container-fluid text-light wow fadeIn" data-wow-delay="0.1s">
+  <footer class="footer bg-light small text-white-50">
+    <div class="container-fluid text-dark wow fadeIn" data-wow-delay="0.1s">
       <div class="container py-2">
         <div class="row g-5">
           <div class="col-lg-3 col-md-6">
@@ -12,7 +12,7 @@
         </div>
         <div class="row g-5">
           <div class="col-lg-3 col-md-6">
-            <h5 class="text-light mb-4">Dirección</h5>
+            <h5 class="text-dark mb-4">Dirección</h5>
             <p class="mb-2"><i class="bi bi-geo-alt me-2"></i> {{ company.attributes.address }}</p>
             <p class="mb-2">
               <i class="bi bi-telephone me-2"></i>
@@ -37,6 +37,11 @@
               <ul class="list-unstyled">
                 <li v-for="item in menuItems" :key="item.link">
                   <NuxtLink :to="item.link">{{ item.title }}</NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink :to="`/${lang}/politica-de-privacidad`">{{
+                    lang === 'es' ? 'Política de privacidad' : 'Privacy Policy'
+                  }}</NuxtLink>
                 </li>
               </ul>
             </nav>
@@ -71,6 +76,6 @@
   const menuItems = menu.value.data.attributes.items ? menu.value.data.attributes.items : [];
 
   const logo = computed(() => {
-    return config.public.baseUrl + company.value.attributes.logo;
+    return company.value.attributes.logo;
   });
 </script>

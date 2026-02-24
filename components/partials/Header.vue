@@ -12,11 +12,11 @@
             href="https://lauyama.com/booking"
             title="Reservar online"
             target="_blank"
-            class="btn btn-light px-4 gap-3"
+            class="btn btn-light px-4 gap-3 fw-bold"
             ><i class="bi bi-calendar-check me-2"></i> Reserva online</a
           >
-          <a href="tel:916 320 574" class="btn btn-light px-4 gap-3"><i class="bi bi-telephone me-2"></i> Llamar</a>
-          <NuxtLink to="/es/carta" class="btn btn-danger px-4 gap-3"><i class="bi bi-book me-2"></i> Carta</NuxtLink>
+          <a href="tel:916 320 574" class="btn btn-light px-4 gap-3 fw-bold"><i class="bi bi-telephone me-2"></i> Llamar</a>
+          <NuxtLink to="/es/carta" class="btn btn-danger px-4 gap-3 fw-bold"><i class="bi bi-book me-2"></i> Carta</NuxtLink>
         </div>
       </div>
     </div>

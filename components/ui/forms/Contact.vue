@@ -153,16 +153,16 @@
     contactEmail.value = form.value.email as string;
 
     const emailData = {
-      subject: '¡Horus Eventos te da las gracias por contactarnos!',
+      subject: 'Te damos las gracias por contactarnos!',
       message: `Hola ${contactName.value},<br><br>
 Revisaremos todos los detalles que nos has enviado. Queremos asegurarnos de que cada detalle esté perfectamente alineado con lo que imaginas y poder ayudarte a hacer realidad tu evento.<br><br>
 Mientras tanto, si te surge cualquier pregunta o quieres contarnos algo más, aquí estamos, listos para ayudarte.<br><br>
 Te responderemos lo antes posible.<br>
-Un saludo muy cordial<br><br>El equipo de Horus Eventos<br>+34 917 824 563<br>info@horuseventos.com`,
-      brandName: 'Horus Eventos',
+Un saludo muy cordial<br><br>Nuestro equipo<br>`,
+      brandName: '',
       to: contactEmail.value,
-      emailFrom: 'info@horuseventos.com',
-      logo: 'https://www.horuseventos.com/img/logo.png',
+      emailFrom: '',
+      logo: '/img/logo.png',
     };
 
     await $fetch('/api/sendEmail/copy', {

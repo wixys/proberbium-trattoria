@@ -35,7 +35,7 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
                 {
           rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Laila:wght@600&display=swap',
+          href: 'https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Laila:wght@600&display=swap',
         },
         {
           rel: 'stylesheet',

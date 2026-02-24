@@ -38,17 +38,26 @@
               />
             </template>
             <template v-else>
-              <NuxtLink :to="item.link" class="nav-link">{{ item.title }}</NuxtLink>
+              <NuxtLink
+                :to="item.link"
+                :class="[
+                  'nav-link',
+                  {
+                    'is-active': isMenuItemActive(item.link),
+                  },
+                ]"
+                >{{ item.title }}</NuxtLink
+              >
             </template>
           </li>
         </ul>
         <div class="d-flex justify-content-end">
-          <a href="https://lauyama.com/booking" class="btn btn-outline-dark me-2" title="Reservar online" target="_blank"
+          <a href="https://lauyama.com/booking" class="btn btn-outline-dark me-2 fw-bold" title="Reservar online" target="_blank"
             ><i class="bi bi-calendar-check me-2"></i> Reserva online</a
           >
         </div>
         <div class="d-flex justify-content-end">
-          <a href="tel:916320574" class="btn btn-outline-dark"
+          <a href="tel:916320574" class="btn btn-outline-dark fw-bold"
             ><i class="bi bi-telephone me-2"></i> 916 32 05 74</a
           >
         </div>
@@ -82,6 +91,18 @@
   const logo = computed(() => {
     return company.value.attributes.logo;
   });
+
+  const isMenuItemActive = (link) => {
+    if (!link) return false;
+
+    if (link.includes('#')) {
+      const [path, hash] = link.split('#');
+      if (!hash) return false;
+      return route.path === path && route.hash === `#${hash}`;
+    }
+
+    return route.path === link && !route.hash;
+  };
 
   // Shrink the navbar when page is scrolled
   const navbarShrink = () => {
@@ -156,7 +177,7 @@
 </script>
 
 <style>
-  a.router-link-active.router-link-exact-active.nav-link {
+  .nav-link.is-active {
     color: rgb(161, 100, 104);
     outline: none;
     border-bottom: 0.25rem solid rgb(161, 100, 104);

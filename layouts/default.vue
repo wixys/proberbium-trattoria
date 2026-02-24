@@ -2,7 +2,7 @@
   <div>
     <PartialsTopNavbar :show="false" />
     <PartialsNavbar :isNavbarShrink="true" :navbarMarginTop="false" />
-    <template v-if="route.fullPath === '/' || !route.params.page || route.params.page === ''">
+    <template v-if="showHomeHeader">
       <PartialsHeader :images="images" />
     </template>
     <template v-else>
@@ -17,8 +17,7 @@
       <PartialsCookiesPolicy @cookiesConsentNotAccepted="cookiesConsentNotAccepted" />
       <slot />
     </main>
-    <!-- <UiUtilsWhatsApp /> -->
-    <!-- <PartialsFooter /> -->
+    <PartialsFooter />
   </div>
 </template>
 
@@ -30,6 +29,10 @@
   const route = useRoute();
   const lang = route.params.lang || 'es'; // Default to 'en' if no lang param
   const { data: images, error } = await mediaData(Array.isArray(lang) ? lang[0] : lang);
+  const showHomeHeader = computed(() => {
+    const currentLang = Array.isArray(lang) ? lang[0] : lang;
+    return route.path === '/' || route.path === `/${currentLang}`;
+  });
 
   const cookiesConsentAccepted = () => {
     cookieConsent.value = cookieValue;

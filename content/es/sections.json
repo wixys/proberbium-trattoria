@@ -1,4 +1,113 @@
 {
   "data": [
+    {
+      "type": "sections",
+      "id": "sections",
+      "attributes": {
+        "id": "proverbium-experiencia",
+        "class": "projects-section bg-light text-center text-black",
+        "container_class": "container px-4 px-lg-5",
+        "row_class": "row gx-4 gx-lg-5 justify-content-center fw-normal",
+        "col_class": "col-lg-12",
+        "title": "¡Visítanos y sumérgete en una auténtica experiencia culinaria italiana!",
+        "title_class": "fw-bolder mb-5",
+        "paragraph_class": "lead fw-normal mb-4",
+        "subtitle": "",
+        "description": "",
+        "content": "",
+        "images": [],
+        "articles": [
+          {
+            "title": "Nuestro salón",
+            "slug": "nuestro-salon",
+            "description": "El salón de nuestro restaurante italiano es un espacio familiar y acogedor que ha sido diseñado pensando en la comodidad y el disfrute de nuestros clientes. Con una decoración cálida y encantadora, el ambiente evoca la sensación de estar en un auténtico ristorante italiano.",
+            "link": "/es/nuestro-salon",
+            "icon": "",
+            "featured": false,
+            "sort": 1,
+            "row_class": "row gx-0 mb-5 mb-lg-0 justify-content-center",
+            "images": [
+              "/img/media/proverbium-nuestro-salon.jpg"
+            ],
+            "images_class": "img-fluid",
+            "images_col_class": "col-lg-6",
+            "article_col_class": "col-lg-6",
+            "article_wrapper_class": "bg-white text-center h-100 project",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "project-text w-100 my-auto text-center text-lg-left",
+            "article_title_class": "text-black",
+            "article_paragraph_class": "lead fw-normal mb-0 text-dark-50"
+          },
+          {
+            "title": "La magia de la comida italiana",
+            "slug": "la-magia-de-la-comida-italiana",
+            "description": "La frescura de nuestros productos, cuidadosamente seleccionados, nos permite elaborar platos exquisitos que producen una explosión de sabores mediterráneos, transportándote directamente a la costa de Italia.",
+            "link": "/es/la-magia-de-la-comida-italiana",
+            "icon": "",
+            "featured": false,
+            "sort": 2,
+            "row_class": "row gx-0 mb-5 mb-lg-0 justify-content-center",
+            "images": [
+              "/img/media/proverbium-magia-comida-italiana.jpg"
+            ],
+            "images_class": "img-fluid",
+            "images_col_class": "col-lg-6",
+            "article_col_class": "col-lg-6 order-lg-first",
+            "article_wrapper_class": "bg-white text-center h-100 project",
+            "article_container_class": "d-flex h-100",
+            "article_content_class": "project-text w-100 my-auto text-center text-lg-right",
+            "article_title_class": "text-black",
+            "article_paragraph_class": "lead fw-normal mb-0 text-dark-50"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sections",
+      "id": "sections",
+      "attributes": {
+        "id": "localizacion",
+        "class": "contact-section text-center bg-danger text-white",
+        "container_class": "container px-4 px-lg-5",
+        "row_class": "row gx-4 gx-lg-5 justify-content-center fw-normal",
+        "col_class": "col-lg-6",
+        "title": "Localización",
+        "title_class": "fw-bolder mb-3 text-white",
+        "paragraph_class": "lead fw-normal mb-4",
+        "subtitle": "",
+        "description": "<p>El restaurante está ubicado en la Calle Mártires 19, C.P. 28660, Boadilla del Monte (Madrid), España.</p><p>Se encuentra en una tranquila localidad, que se caracteriza por su encanto y facilidad de acceso, además de contar con zonas de aparcamiento.</p>",
+        "content": "",
+        "images": [],
+        "map_iframe": {
+          "url": "https://www.google.com/maps?q=Calle+M%C3%A1rtires+19,+28660+Boadilla+del+Monte,+Madrid,+Espa%C3%B1a&output=embed"
+        },
+        "articles": []
+      }
+    },
+    {
+      "type": "sections",
+      "id": "sections",
+      "attributes": {
+        "id": "localizacion-imagen",
+        "class": "bg-light",
+        "container_class": "",
+        "row_class": "",
+        "col_class": "",
+        "title": "",
+        "title_class": "",
+        "paragraph_class": "",
+        "subtitle": "",
+        "description": "",
+        "content": "",
+        "images": [],
+        "full_width_image": {
+          "src": "/img/media/restaurante-italiano-proverbium-boadilla-del-monte.jpg",
+          "alt": "Restaurante Proverbium en Boadilla del Monte",
+          "height": "300px",
+          "parallax": true
+        },
+        "articles": []
+      }
+    }
   ]
 }
