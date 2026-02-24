@@ -17,7 +17,7 @@ export default defineNuxtConfig({
     },
   },
   routeRules: {
-    
+
   },
   vue: {
     compilerOptions: {
@@ -33,7 +33,7 @@ export default defineNuxtConfig({
     head: {
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-                {
+        {
           rel: 'stylesheet',
           href: 'https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Laila:wght@600&display=swap',
         },
@@ -45,6 +45,13 @@ export default defineNuxtConfig({
       script: [
         {
           src: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.bundle.min.js',
+        },
+        {
+          id: 'cookie-script',
+          src: 'https://cdn.cookie-script.com/s/55beec750af48a4d61290c6532943f01.js',
+          type: 'text/javascript',
+          charset: 'UTF-8',
+          defer: true
         }
       ],
     },
