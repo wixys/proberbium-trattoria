@@ -77,15 +77,15 @@
       default: false,
     },
   });
-  const config = useRuntimeConfig();
+  const { menuData } = useMenuData();
   const { companyData } = useCompanyData();
   const route = useRoute();
   const lang = route.params.lang || 'es'; // Default to 'en' if no lang param
-  const { data: menu } = await useAsyncData('menu', () => queryContent(`/${lang}/menu`).findOne());
-  const { data: company, error } = await companyData(lang);
+  const { data: menuItemsData } = await menuData(lang);
+  const { data: company } = await companyData(lang);
 
-  const menuItems = menu.value.data.attributes.items
-    ? menu.value.data.attributes.items.filter((item) => item.position === 'navbar')
+  const menuItems = menuItemsData.value
+    ? menuItemsData.value.filter((item) => item.position === 'navbar')
     : [];
 
   const logo = computed(() => {

@@ -26,6 +26,44 @@
 
   const { data: menuItems, error } = await menuData(lang);
 
+  const formatBreadcrumbTitle = (segment: string) => {
+    const words = decodeURIComponent(segment)
+      .replace(/-/g, ' ')
+      .split(' ')
+      .filter(Boolean);
+
+    const titleCased = words.map((word) => word.charAt(0).toUpperCase() + word.slice(1));
+
+    if (lang !== 'es') {
+      return titleCased.join(' ');
+    }
+
+    const lowercaseWords = new Set([
+      'de',
+      'del',
+      'la',
+      'las',
+      'el',
+      'los',
+      'y',
+      'e',
+      'o',
+      'u',
+      'en',
+      'con',
+      'por',
+      'para',
+      'a',
+      'al',
+    ]);
+
+    return titleCased
+      .map((word, index) =>
+        index > 0 && lowercaseWords.has(word.toLowerCase()) ? word.toLowerCase() : word
+      )
+      .join(' ');
+  };
+
   const findBreadcrumbs = (items, path) => {
     for (const item of items) {
       if (item.link === path) {
@@ -82,9 +120,7 @@
     if (crumbs.length && route.path !== crumbs[crumbs.length - 1].link) {
       const segments = route.path.split('/').filter(Boolean);
       const lastSegment = segments[segments.length - 1];
-      const title = decodeURIComponent(lastSegment)
-        .replace(/-/g, ' ')
-        .replace(/\b\w/g, (l) => l.toUpperCase()); // Capitaliza
+      const title = formatBreadcrumbTitle(lastSegment);
 
       crumbs.push({
         title,

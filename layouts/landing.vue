@@ -9,6 +9,7 @@
     <main id="main" data-aos="fade-up">
       <slot />
     </main>
+    <RgpdConsentBanner />
   </div>
 </template>
 

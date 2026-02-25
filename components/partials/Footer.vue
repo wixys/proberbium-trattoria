@@ -43,6 +43,18 @@
                     lang === 'es' ? 'Política de privacidad' : 'Privacy Policy'
                   }}</NuxtLink>
                 </li>
+                <li>
+                  <NuxtLink :to="`/${lang}/politica-de-cookies`">{{
+                    lang === 'es' ? 'Política de cookies' : 'Cookies Policy'
+                  }}</NuxtLink>
+                </li>
+                <li>
+                  <NuxtLink :to="`/${lang}/terminos-y-condiciones-de-reserva`">{{
+                    lang === 'es'
+                      ? 'Términos y condiciones de reserva'
+                      : 'Reservation Terms and Conditions'
+                  }}</NuxtLink>
+                </li>
               </ul>
             </nav>
           </div>
@@ -63,17 +75,17 @@
 </template>
 
 <script setup>
-  const config = useRuntimeConfig();
   const route = useRoute();
+  const { menuData } = useMenuData();
   const { companyData } = useCompanyData();
   const lang = route.params.lang || 'es'; // Default to 'en' if no lang param
-  const { data: menu } = await useAsyncData('menu', () => queryContent(`/${lang}/menu`).findOne());
+  const { data: menuItemsData } = await menuData(lang);
   // Get company data
-  const { data: company, error } = await companyData(lang);
+  const { data: company } = await companyData(lang);
 
   const currentDate = new Date().getFullYear();
 
-  const menuItems = menu.value.data.attributes.items ? menu.value.data.attributes.items : [];
+  const menuItems = menuItemsData.value ? menuItemsData.value : [];
 
   const logo = computed(() => {
     return company.value.attributes.logo;
