@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: false },
-  modules: ['@nuxt/content', '@nuxt/image', '@nuxtjs/i18n'],
+  modules: ['@nuxt/content', '@nuxt/image', '@nuxtjs/i18n', './modules/rgpd-consent'],
   compatibilityDate: '2024-07-25',
   devServer: {
     port: 3000,
@@ -46,13 +46,6 @@ export default defineNuxtConfig({
         {
           src: 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.bundle.min.js',
         },
-        {
-          id: 'cookie-script',
-          src: '//cdn.cookie-script.com/s/4fcf71cdf569c04da2d1c208da15bc13.js',
-          type: 'text/javascript',
-          charset: 'UTF-8',
-          defer: true
-        }
       ],
     },
   },

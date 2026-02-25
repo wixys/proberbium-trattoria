@@ -15,6 +15,7 @@
   const langParam = route.params.lang as string | undefined;
   const lang = langParam ? langParam : (config.public.defaultLocale as string);
   const title = 'Política de privacidad | ' + config.public.appName;
+  const cookiesPolicyPath = `/${lang}/politica-de-cookies`;
   const privacyPolicyHtml = `
     <h2 class="h4 fw-bolder mb-3">1. Responsable del tratamiento</h2>
     <p>En cumplimiento de lo dispuesto en el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD), se informa que los datos personales facilitados a través del sitio web serán tratados por:</p>
@@ -70,6 +71,10 @@
     <p>El usuario garantiza que los datos aportados son verdaderos, exactos y actualizados, siendo responsable de comunicar cualquier modificación de los mismos.</p>
     <h2 class="h4 fw-bolder mb-3 mt-4">10. Modificaciones</h2>
     <p>El Responsable se reserva el derecho de modificar la presente Política de Privacidad para adaptarla a novedades legislativas o jurisprudenciales. En caso de cambios relevantes, se informará a los usuarios a través del sitio web.</p>
+    <h2 class="h4 fw-bolder mb-3 mt-4">11. Política de cookies</h2>
+    <p>Para más información sobre el uso de cookies, puedes consultar nuestra <a href="${cookiesPolicyPath}">Política de cookies</a>.</p>
+    <h2 class="h4 fw-bolder mb-3 mt-4">12. Términos de reserva</h2>
+    <p>Para conocer las condiciones aplicables al proceso de reserva, puedes consultar los <a href="/${lang}/terminos-y-condiciones-de-reserva">Términos y condiciones de reserva</a>.</p>
   `;
 
   useHead({
